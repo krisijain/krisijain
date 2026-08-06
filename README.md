@@ -1,6 +1,6 @@
 Hello, I am Krisi!
 
-I'm a Data Engineer with nearly 4 years of experience building data pipelines and platforms that make data reliable, accessible, and ready for analytics, AI and data-driven products. I enjoy solving technical problems, improving existing systems, and building solutions that are simple, scalable, and maintainable.
+I'm a Data Engineer with nearly 4 years of experience building pipelines and platforms that make data reliable, accessible, and ready for analytics and data-driven products. I enjoy solving technical problems, improving existing systems, and building solutions that are simple, scalable, and maintainable.
 
 I've worked with batch and real-time data pipelines, ETL workflows, cloud platforms, and distributed data processing. I like understanding how systems fit together and finding better ways to move, transform, and deliver data.
  
@@ -24,9 +24,11 @@ Git, Jenkins, CI/CD.
 
 Some of my projects
 
+- [GitHub Events (Analyzer + Copilot)](https://github.com/krisijain/github-events-copilot) turns public github activity data into something queryable. It is a lakehouse that cleans and aggregates real event data from GH Archive, plus a chat agent that explains the pipeline itself.
+
 - [NYT Sports Data Pipeline](https://github.com/krisijain/nyt-article-pipeline) pulls articles from the NYT Article Search API and turns them into a set of analysis-ready CSVs.
 
-- [Fund Flow](https://github.com/krisijain/fund-flow) is a batch pipeline that pulls daily NAV data for 300+ AMFI mutual fund schemes. It is built for comparing fund performance across categories, with a Streamlit dashboard on top to actually browse the results.
+
 
 
 Feel free to connect!
