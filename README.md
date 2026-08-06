@@ -1,11 +1,6 @@
 ## Hello, I am Krisi!
-#### Data Engineer
 
-I have spent nearly four years at PwC India, working my way from Analyst to Associate, working on data platforms for large clients.  
-
-Pipelines handling millions of records a day, and the unglamorous but important work of making sure they stay correct once they're live.
-
-I like the debugging side of this job as much as the building side. Some of my favorite work has been tracing a weird data issue back to its root cause, not just patching around it.
+I have spent nearly four years at PwC India, working on data engineering platforms for our clients. Pipelines handling millions of records a day, and the unglamorous but important work of making sure they stay correct once they're live. I like the debugging side of this job as much as the building side. Some of my favorite work has been tracing a weird data issue back to its root cause, not just patching around it.
 
 [Portfolio](https://krisijain.github.io) ·
 [LinkedIn](https://www.linkedin.com/in/krisi-jain) · 
