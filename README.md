@@ -28,7 +28,6 @@ Some of my projects
 
 - [Fund Flow](https://github.com/krisijain/fund-flow) is a batch pipeline that pulls daily NAV data for 300+ AMFI mutual fund schemes. It is built for comparing fund performance across categories, with a Streamlit dashboard on top to actually browse the results.
 
----
 
 Feel free to connect!
 
