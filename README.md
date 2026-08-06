@@ -1,34 +1,33 @@
-## Hello, I am Krisi!
+Hello, I am Krisi!
 
-I have spent nearly four years at PwC India, working on data engineering platforms for our clients. Pipelines handling millions of records a day, and the unglamorous but important work of making sure they stay correct once they're live. I like the debugging side of this job as much as the building side. Some of my favorite work has been tracing a weird data issue back to its root cause, not just patching around it.
+I'm a Data Engineer with nearly 4 years of experience building data pipelines and platforms that make data reliable, accessible, and ready for analytics, AI and data-driven products. I enjoy solving technical problems, improving existing systems, and building solutions that are simple, scalable, and maintainable.
+ 
+I've worked with batch and real-time data pipelines, ETL workflows, cloud platforms, and distributed data processing. I like understanding how systems fit together and finding better ways to move, transform, and deliver data.
+ 
+My background in Mathematics has shaped the way I approach problems with logic, curiosity, and attention to detail. I'm always looking to learn new technologies and become a better engineer with every project.
 
-[Portfolio](https://krisijain.github.io) 
+[krisijain17@gmail.com](mailto:krisijain17@gmail.com) · [Portfolio](https://krisijain.github.io) · [LinkedIn](https://www.linkedin.com/in/krisi-jain) 
 
-[LinkedIn](https://www.linkedin.com/in/krisi-jain)
+I work with  
 
-[krisijain17@gmail.com](mailto:krisijain17@gmail.com)
-
----
-
-**Languages:**
+Languages:
 Python (Pandas, NumPy), SQL
 
-**Data Engineering:**
+Data Engineering:
 Spark (PySpark), Kafka, Airflow
 
-**Cloud & Data Platforms:**
+Cloud & Data Platforms:
 Azure Databricks, AWS 
 
-**DevOps & Tools:**
+DevOps & Tools:
 Git, Jenkins, CI/CD.
 
----
 
-### Projects
+Some of my projects
 
-**· [NYT Sports Data Pipeline](https://github.com/krisijain/nyt-article-pipeline)** pulls articles from the NYT Article Search API and turns them into a set of analysis-ready CSVs.
+· [NYT Sports Data Pipeline](https://github.com/krisijain/nyt-article-pipeline) pulls articles from the NYT Article Search API and turns them into a set of analysis-ready CSVs.
 
-**· [Fund Flow](https://github.com/krisijain/fund-flow)** is a batch pipeline that pulls daily NAV data for 300+ AMFI mutual fund schemes. It is built for comparing fund performance across categories, with a Streamlit dashboard on top to actually browse the results.
+· [Fund Flow](https://github.com/krisijain/fund-flow) is a batch pipeline that pulls daily NAV data for 300+ AMFI mutual fund schemes. It is built for comparing fund performance across categories, with a Streamlit dashboard on top to actually browse the results.
 
 ---
 
