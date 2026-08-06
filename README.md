@@ -24,7 +24,7 @@ Git, Jenkins, CI/CD.
 
 Some of my projects
 
-- [GitHub Events (Analyzer + Copilot)](https://github.com/krisijain/github-events-copilot) turns public github activity data into something queryable. It is a lakehouse that cleans and aggregates real event data from GH Archive, plus a chat agent that explains the pipeline itself.
+- [GitHub Events (Analyzer + Copilot)](https://github.com/krisijain/github-events-copilot) turns public github activity into something queryable. It is a lakehouse that cleans and aggregates real event data from GH Archive, plus a chat agent that explains the pipeline itself.
 
 - [NYT Sports Data Pipeline](https://github.com/krisijain/nyt-article-pipeline) pulls articles from the NYT Article Search API and turns them into a set of analysis-ready CSVs.
 
